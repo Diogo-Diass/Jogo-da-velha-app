@@ -5,9 +5,23 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <!-- Strings used for fragments for navigation -->
 
-    <string name="jogador1">Jogador (X)</string>
-    <string name="jogador2">Jogador (Y)</string>
+    <string name="jogador1">%1$s (%2$s) </string>
+    <string name="jogador2">%1$s (%2$s)</string>
     <string name="placar1">0</string>
     <string name="placar2">0</string>
+    <string name="vitoriajog2">Parabéns, jogador 2 venceu!!!</string>
+    <string name="velha">ihhhhh deu velha</string>
+    <string name="vitoriajog1">Parabéns, jogador 1 venceu!!!</string>
+    <string name="resetar">Zerar o placar</string>
+    <string name="tela_inicial">Voltar a tela inicial</string>
+    <string name="preferencias">Preferências</string>
+    <string name="bemVindo">Olá jogador, seja bem vindo!!!</string>
+    <string name="proximo">Próximo</string>
+    <string name="empate">Velha</string>
+    <string name="placarVelha">0</string>
+    <string name="certezaReset">Tem certeza que deseja resetar?</string>
+    <string name="sim">Sim</string>
+    <string name="Nao">Não</string>
+    <string name="tituloCerteza">Resetar</string>
 
 </resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.preference.EditTextPreference
+        android:key="simb_jog_1"
+        android:title="SImbolo do jogador 1"
+        android:summary="Escolha o simbolo do jogador 1"
+        />
+
+<androidx.preference.EditTextPreference
+android:key="simb_jog_2"
+android:title="SImbolo do jogador 2"
+android:summary="Escolha o simbolo do jogador 2"
+    />
+
+    <androidx.preference.EditTextPreference
+        android:key="name_jog_1"
+        android:title="Nome do jogador 1"
+        android:summary="Escolha o nome do jogador 1"
+        />
+
+    <androidx.preference.EditTextPreference
+        android:key="name_jog_2"
+        android:title="Nome do jogador 2"
+        android:summary="Escolha o nome do jogador 2"
+        />
+
+    </androidx.preference.PreferenceScreen>
